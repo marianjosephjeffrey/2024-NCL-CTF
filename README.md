@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="National_Cyber_League.jpg" alt="NCL Fall 2024 Banner" width="600"/>
+  <img src="ncl.png" style="border-radius: 12px; alt="NCL Fall 2024 Banner" width="600"/>
 </p>
 
 <h1 align="center">🛡️ NCL Fall 2024 Individual Game</h1>
@@ -56,12 +56,12 @@ This event focused on a broad range of topics across offensive and defensive sec
 
 <details>
   <summary>📊 Score Breakdown</summary>
-  <img src="Fall2024.png" width="600"/>
+  <img src="Fall2024.png" style="border-radius: 12px; width="600"/>
 </details>
 
 <details>
   <summary>🏅 Leaderboard Rank</summary>
-  <img src="Fall2024 Rank.png" width="600"/>
+  <img src="Fall2024 Rank.png" style="border-radius: 12px; width="600"/>
 </details>
 
 ---
