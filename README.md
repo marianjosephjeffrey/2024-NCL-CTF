@@ -78,7 +78,7 @@ This event focused on a broad range of topics across offensive and defensive sec
 ## 📬 Connect with Me  
 
 💼 [LinkedIn](https://www.linkedin.com/in/marianjohn/)  
-🌐 [Portfolio](https://marianjosephjeffrey.wordpress.com)  
+🌐 [Portfolio](https://marianjosephjeffrey.com/)  
 🛡️ [TryHackMe](https://tryhackme.com/p/mjcube)  
 📫 mjcube1999@gmail.com
 
